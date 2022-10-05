@@ -1,4 +1,4 @@
-# Hi there 👋, I am Saalim Aqueel
+# Hi 👋, I'm Saalim Aqueel
 #### CS Undergrad | Web Developer | Open Source Enthusiast
 
 ![Profile views](https://gpvc.arturio.dev/Sxxaq) 
