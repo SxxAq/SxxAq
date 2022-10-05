@@ -9,4 +9,3 @@ SxxAq/SxxAq is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![@sxxlim's Holopin board](https://holopin.io/api/user/board?user=sxxlim)](https://holopin.io/@sxxlim)
