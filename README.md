@@ -1,5 +1,5 @@
-# Hi 👋, I'm Saalim Aqueel
-#### CS Undergrad | Web Developer | Open Source Enthusiast
+<h1 align="center">Hi 👋, I'm Saalim Aqueel</h1>
+<h3 align="center">CS Undergrad | Web Developer | Open Source Enthusiast</h3>
 
 ![Profile views](https://gpvc.arturio.dev/Sxxaq) 
 
@@ -28,10 +28,12 @@ Skills: HTML / CSS / JS / C / JAVA / Git / Node JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxxaq)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxxaq&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxxaq&show_icons=true) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sxxaq) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sxxaq)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sxxaq)  
+ 
 
  
