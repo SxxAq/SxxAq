@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saalim Aqueel</h1>
 <h3 align="center">CS Undergrad | Web Developer | Open Source Enthusiast</h3>
-
-![Profile views](https://gpvc.arturio.dev/Sxxaq) 
 <div align="right">
 <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right" style="width: 100%" />
-</div>  
+</div> 
+
+![Profile views](https://gpvc.arturio.dev/Sxxaq) 
+ 
 
 
 Skills: HTML / CSS / JS / C / JAVA / Git / Node JS 
