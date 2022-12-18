@@ -21,7 +21,7 @@ Skills: HTML / CSS / JS / C / JAVA / Git / Node JS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saalim-aqueel-6327bb225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saalim-aqueel-6327bb225" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saalim-aqueel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saalim-aqueel-6327bb225" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_saalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_saalim" height="30" width="40" /></a>
 </p>
 
