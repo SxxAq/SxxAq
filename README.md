@@ -8,9 +8,6 @@
 ![Profile views](https://gpvc.arturio.dev/Sxxaq) 
  
 
-
-Skills: HTML / CSS / JS / C / JAVA / Git / Node JS 
-
 - 🔭 I’m currently working on **Improving my development skills** 
 - 🌱 I’m currently learning **MERN Stack, Java, & DSA** 
 - 👯 I’m looking to collaborate on **Open Source, Hackathons** 
