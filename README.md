@@ -9,7 +9,7 @@
  
 
 - 🔭 I’m currently working on **Improving my development skills** 
-- 🌱 I’m currently learning **MERN Stack, Java, & DSA** 
+- 🌱 I’m currently learning **MERN Stack, Cpp, & DSA** 
 - 👯 I’m looking to collaborate on **Open Source, Hackathons** 
 - 🤔 I’m looking for help with **Web Development, Open Source & Hackathons** 
 - 💬 Ask me about **Frontend Web Dev, Open Source & Git** 
