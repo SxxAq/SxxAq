@@ -31,7 +31,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SxxAq&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SxxAq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![saalim123's GitHub | Languages Over Time](https://stats.quine.sh/saalim123/languages-over-time?theme=dark)](https://quine.sh)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SxxAq&theme=dark&hide_border=false)<br/>
 [![saalim123's GitHub | Stats](https://stats.quine.sh/saalim123/github?theme=dark)](https://quine.sh)
 
