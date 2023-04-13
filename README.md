@@ -26,8 +26,8 @@
 [![@sxxlim's Holopin board](https://holopin.me/sxxlim)](https://holopin.io/@sxxlim)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SxxAq&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SxxAq&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SxxAq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
