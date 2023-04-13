@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saalim Aqueel.</h1>
 <h3 align="center">CS Undergrad | Web Developer | Open Source Enthusiast</h3>
 
-<div align="right">
+<!-- <div align="right">
 <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right" style="width: 360px" />
-</div> 
+</div>  -->
 
 ![Profile views](https://gpvc.arturio.dev/Sxxaq) 
  
@@ -11,10 +11,9 @@
 - 🔭 I’m currently working on **Improving my development skills** 
 - 🌱 I’m currently learning **MERN Stack, Cpp, & DSA** 
 - 👯 I’m looking to collaborate on **Open Source, Hackathons** 
-- 🤔 I’m looking for help with **Web Development, Open Source & Hackathons** 
 - 💬 Ask me about **Frontend Web Dev, Open Source & Git** 
 - 📫 How to reach me: **aqueel192@gmail.com** 
-- ⚡ Fun fact: I love Photography and Playing FPS/Battle Royale like VALORANT, PUBG, COD etc 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_saalim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saalim-aqueel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20808197/saalim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__saalim) 
