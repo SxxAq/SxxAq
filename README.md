@@ -6,6 +6,7 @@
 </div>  -->
 
 ![Profile views](https://gpvc.arturio.dev/Sxxaq) 
+![](https://komarev.com/ghpvc/?username=SxxAq&color=green)
  
 
 - 🔭 I’m currently working on **Improving my development skills** 
