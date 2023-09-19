@@ -5,7 +5,7 @@
 <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right" style="width: 360px" />
 </div>  -->
 
-![Profile views](https://gpvc.arturio.dev/Sxxaq&color=green) 
+![Profile views](https://gpvc.arturio.dev/Sxxaq) 
 
  
 
