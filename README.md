@@ -3,9 +3,7 @@
 
 <!-- <div align="right">
 <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right" style="width: 360px" />
-</div>  -->
-
-![Profile views](https://gpvc.arturio.dev/Sxxaq)
+</div
 
  
 
@@ -31,7 +29,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=SxxAq&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SxxAq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=SxxAq&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
+[![saalim123's GitHub | Stats](https://stats.quine.sh/saalim123/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=saalim123)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SxxAq&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SxxAq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
