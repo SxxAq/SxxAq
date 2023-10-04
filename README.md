@@ -5,10 +5,9 @@
 
 <!-- <div align="right">
 <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right" style="width: 360px" />
-</div
-
- 
-
+</div -->
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SxxAq.visitor-badge)
+<!--
 - 🔭 I’m currently working on **Improving my development skills** 
 - 🌱 I’m currently learning **MERN Stack, Cpp, & DSA** 
 - 👯 I’m looking to collaborate on **Open Source, Hackathons** 
