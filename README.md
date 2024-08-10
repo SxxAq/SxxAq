@@ -34,7 +34,9 @@
 
 <!-- 
 ###  GitHub Stats:
+-->
 ![](https://github-readme-stats.vercel.app/api?username=SxxAq&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+<!--
 [![saalim123's GitHub | Stats](https://stats.quine.sh/saalim123/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=saalim123) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SxxAq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 -->
