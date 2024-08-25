@@ -1,14 +1,12 @@
-![github-header-image](https://github.com/SxxAq/SxxAq/assets/98530202/2fe6973b-5e16-4931-b70c-5d9cac8d8762) 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SxxAq.visitor-badge)
-<!--<h1 align="center">Hi 👋, I'm Saalim Aqueel.</h1>
-<h3 align="center">CS Undergrad | Web Developer | Open Source Enthusiast</h3>-->
+ 
 
-<!-- <div align="right">
-<img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right" style="width: 360px" />
-</div -->
+<h1 align="center">Hi 👋, I'm Saalim Aqueel.</h1>
+<h3 align="center">  Full-Stack Developer | React & Node.js Specialist | Open Source Contributor </h3>
+
+
 <hr/>
 
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SxxAq.visitor-badge)
 <h3 align="left">Reach out to me:</h3>
 <p align="left">
 <a href="https://twitter.com/__saalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__saalim" height="30" width="40" /></a>
