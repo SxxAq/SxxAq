@@ -1,10 +1,10 @@
  
 
 <h1 align="center">Hi 👋, I'm Saalim Aqueel.</h1>
-<h3 align="center">  Full-Stack Developer | React & Node.js Specialist | Open Source Contributor </h3>
+<h3 align="center">  Frontend Developer | Open Source Contributor | Exploring Backend  </h3>
 
 
-<hr/>
+
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SxxAq.visitor-badge)
 <h3 align="left">Reach out to me:</h3>
