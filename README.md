@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Saalim Aqueel</h1>
-<h3 align="center">Frontend Developer | Open Source Contributor | Exploring Backend</h3>
+<h3 align="center">Hi 👋, I'm Saalim Aqueel</h3>
+<h4 align="center">Frontend Developer | Open Source Contributor | Exploring Backend</h4>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SxxAq.visitor-badge" alt="visitor badge"/>
 </p>
 
-<h3 align="left">Reach out to me:</h3>
+<h4 align="left">Reach out to me:</h4>
 <p align="left">
   <a href="mailto:aqueel192@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/saalim-aqueel" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/__0xSaalim" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<h3 align="left">My GitHub Stats:</h3>
+<h4 align="left">My GitHub Stats:</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="36%" />
