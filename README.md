@@ -12,6 +12,8 @@
   <a href="https://twitter.com/__0xSaalim" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
+
+
 <h4 align="left">Languages and Tools:</h4>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -48,7 +50,7 @@
 <h4 align="left">My GitHub Stats:</h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="36%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=catppuccin_latte&hide_border=true" alt="GitHub Streak" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="29%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="36%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="29%" />
 </div>
