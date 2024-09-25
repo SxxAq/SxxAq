@@ -50,7 +50,7 @@
 <h4 align="left">My GitHub Stats:</h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="36%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="29%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="32%" />
 </div>
