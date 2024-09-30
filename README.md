@@ -5,8 +5,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SxxAq.visitor-badge" alt="visitor badge"/>
 </p>
 
+<hr/>
+
 <h4 align="left">Reach out to me:</h4>
-<p align="left">
+ <p align="left">
   <a href="mailto:aqueel192@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/saalim-aqueel" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/__0xSaalim" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -14,7 +16,7 @@
 
 
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="center">Tools and Stats:</h4>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -47,10 +49,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<h4 align="left">My GitHub Stats:</h4>
+<!-- <h4 align="left">My GitHub Stats:</h4> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="38%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="42%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="38%" />
 </div>
