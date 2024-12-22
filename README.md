@@ -3,8 +3,6 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SxxAq.visitor-badge" alt="visitor badge"/>
-   <img src="https://wakatime.com/badge/user/e3217d51-dff9-4622-bf93-f79bae08e0cd.svg" alt="wakatime badge"/>
-  
 </p>
 
 <hr/>
