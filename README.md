@@ -14,7 +14,7 @@
   <a href="https://twitter.com/__0xSaalim" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<h4 align="center">Tools and Stats:</h4>
+<h4 align="left">Tools and Stats:</h4>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -25,7 +25,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
@@ -46,6 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="44%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="38%" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="32%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="44%" /> -->
 </div>
