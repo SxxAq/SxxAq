@@ -42,9 +42,8 @@
 
 <!-- <h4 align="left">My GitHub Stats:</h4> -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxxaq&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="42%" />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxaq&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="32%" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxxaq&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="44%" /> -->
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SxxAq&show_icons=true&theme=radical" alt="SxxAq's GitHub stats" width=42% />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SxxAq&theme=radical" alt="GitHub Streak" width=44% />
+</p>
