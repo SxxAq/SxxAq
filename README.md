@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Saalim Aqueel</h3>
-<h4 align="center">I build web apps, break stuff, and fix it better 🚀</h4>
+<h4 align="center">I build web apps, break stuff, and fix it better.</h4>
 <p align="center">
   <a href="mailto:aqueel192@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -21,13 +21,11 @@
 - Currently Exploring AI/ML + NLP
 <hr/>
 <p align="center">
-  <img src="https://img.shields.io/badge/I%20use%20Arch%20btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 <h3 align="left">🛠 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-111111?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-111111?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=3776AB"/>
